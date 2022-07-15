@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am [haotic](https://haoti.cc) 👋
 
 <!--
 **haootic/haootic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
