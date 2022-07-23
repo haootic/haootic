@@ -5,4 +5,4 @@ Haven't really been active programming for a while but proficient in different l
 
 - 🌱 Awaiting A-Level results to go to university
 - 📫 Reach me under haotic@protonmail.com for now
-- 🔭 I’m currently learning Golang
+- 🔭 I’m currently learning NodeJS
